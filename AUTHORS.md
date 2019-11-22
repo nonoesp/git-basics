@@ -1,6 +1,7 @@
 # Authors
 
-- Peter
-- James
-- John
-- Nono
+- Peter James
+- James Peters
+- John Smith
+- Nono Martínez
+- Lilly Potter
